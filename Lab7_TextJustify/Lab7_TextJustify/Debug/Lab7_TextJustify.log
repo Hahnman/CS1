@@ -1,0 +1,4 @@
+﻿  textjustify.cpp
+c:\users\hahnm\documents\visual studio 2015\projects\lab7_textjustify\lab7_textjustify\textjustify.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab7_TextJustify.vcxproj -> C:\Users\hahnm\Documents\Visual Studio 2015\Projects\Lab7_TextJustify\Debug\Lab7_TextJustify.exe
+  Lab7_TextJustify.vcxproj -> C:\Users\hahnm\Documents\Visual Studio 2015\Projects\Lab7_TextJustify\Debug\Lab7_TextJustify.pdb (Full PDB)
