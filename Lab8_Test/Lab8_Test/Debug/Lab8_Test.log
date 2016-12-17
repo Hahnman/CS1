@@ -1,0 +1,4 @@
+﻿  testShips.cpp
+c:\users\hahnm\documents\visual studio 2015\projects\lab8_test\lab8_test\testships.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab8_Test.vcxproj -> C:\Users\hahnm\documents\visual studio 2015\Projects\Lab8_Test\Debug\Lab8_Test.exe
+  Lab8_Test.vcxproj -> C:\Users\hahnm\documents\visual studio 2015\Projects\Lab8_Test\Debug\Lab8_Test.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  game.cpp
+c:\users\hahnm\documents\visual studio 2015\projects\lab8_game\lab8_game\game.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab8_Game.vcxproj -> C:\Users\hahnm\Documents\Visual Studio 2015\Projects\Lab8_Game\Debug\Lab8_Game.exe
+  Lab8_Game.vcxproj -> C:\Users\hahnm\Documents\Visual Studio 2015\Projects\Lab8_Game\Debug\Lab8_Game.pdb (Full PDB)
