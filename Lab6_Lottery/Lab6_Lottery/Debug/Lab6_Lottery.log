@@ -1,0 +1,4 @@
+﻿  lottery.cpp
+c:\users\hahnm\desktop\nhahn3\lab6_lottery\lab6_lottery\lottery.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6_Lottery.vcxproj -> C:\Users\hahnm\Desktop\nhahn3\Lab6_Lottery\Debug\Lab6_Lottery.exe
+  Lab6_Lottery.vcxproj -> C:\Users\hahnm\Desktop\nhahn3\Lab6_Lottery\Debug\Lab6_Lottery.pdb (Full PDB)
