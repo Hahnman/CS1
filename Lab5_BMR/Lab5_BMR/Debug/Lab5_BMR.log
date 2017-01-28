@@ -1,0 +1,5 @@
+﻿  bmr.cpp
+c:\users\hahnm\desktop\nhahn3\lab5_bmr\lab5_bmr\bmr.cpp(58): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  LINK : C:\Users\hahnm\Desktop\nhahn3\Lab5_BMR\Debug\Lab5_BMR.exe not found or not built by the last incremental link; performing full link
+  Lab5_BMR.vcxproj -> C:\Users\hahnm\Desktop\nhahn3\Lab5_BMR\Debug\Lab5_BMR.exe
+  Lab5_BMR.vcxproj -> C:\Users\hahnm\Desktop\nhahn3\Lab5_BMR\Debug\Lab5_BMR.pdb (Full PDB)
